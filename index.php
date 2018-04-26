@@ -18,3 +18,5 @@ $perh = new perhitungan;
       </form>
     </body>
 </hmtl>
+
+/* iki opo to? -> commit muslim */
