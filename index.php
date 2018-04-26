@@ -14,9 +14,6 @@ $perh = new perhitungan;
                 echo "Andhika Fitra Setyawan    - 21120117130052<br/>";
                 echo "kurniasari                - 21120117130072<br/>";
                 echo "Kelompok 12               - Shift 1<br/>" ;
-			?>
-      </form>
-    </body>
-</hmtl>
+?>
 
 /* iki opo to? -> commit muslim , hizkia juga bros*/
