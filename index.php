@@ -19,4 +19,4 @@ $perh = new perhitungan;
     </body>
 </hmtl>
 
-/* iki opo to? -> commit muslim */
+/* iki opo to? -> commit muslim , hizkia juga bros*/
