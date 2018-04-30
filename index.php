@@ -4,6 +4,8 @@
     </head>
 
 <?php
+try{
+
 include ("input.php");
 
 
@@ -25,6 +27,8 @@ $inp1 = new inputvertikal();
     echo "kurniasari                - 21120117130072<br/>";
     echo "Kelompok 12               - Shift 1<br/>" ;
 
-            
+        }catch (Exception $e5s) {
+     echo 'Ada Error: ',  $e->getMessage(), "\n";
+   }   
 /* iki opo to? -> commit muslim , hizkia juga bros*/
 ?>
